@@ -9,7 +9,7 @@ public class TrelloTestSenarios extends BaseTrelloBoard {
     public void trelloTest() {
         trelloBoardTransactions.createBoard("My_New_Panos");
 
-        trelloBoardTransactions.createLists(new String[]{"New_List1", "New_List2"});
+        trelloBoardTransactions.createLists(new String[]{"New_Listem1", "New_Listem2"});
 
         trelloBoardTransactions.createCards(new String[]{"New_Card1", "New_Card2"});
 
