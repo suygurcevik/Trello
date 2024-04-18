@@ -1,0 +1,100 @@
+10:46:06.402 [main] INFO  Utilities.Logger - Test Başladı10:46:05:798
+10:46:08.377 [main] INFO  Utilities.Logger - Expected: My_New_PanosActual: My_New_Panos
+10:46:08.377 [main] INFO  Utilities.Logger - Board has been created!
+10:46:08.393 [main] INFO  Utilities.Logger - Board ID: 661f7e722bd34def8b1ffbbb
+10:46:08.778 [main] INFO  Utilities.Logger - Expected: New_List1Actual: New_List1
+10:46:08.778 [main] INFO  Utilities.Logger - List has been created!
+10:46:08.794 [main] INFO  Utilities.Logger - List ID: 661f7e73eff63a2c31f73ba9
+10:46:09.233 [main] INFO  Utilities.Logger - Expected: New_List2Actual: New_List2
+10:46:09.233 [main] INFO  Utilities.Logger - List has been created!
+10:46:09.233 [main] INFO  Utilities.Logger - List ID: 661f7e7417e54423f589bf16
+10:46:09.781 [main] INFO  Utilities.Logger - Expected: New_Card1Actual: New_Card1
+10:46:09.781 [main] INFO  Utilities.Logger - Cart has been created!
+10:46:09.797 [main] INFO  Utilities.Logger - First Card ID: 661f7e749168219c72cc5b83
+10:46:10.267 [main] INFO  Utilities.Logger - Expected: New_Card2Actual: New_Card2
+10:46:10.267 [main] INFO  Utilities.Logger - Cart has been created!
+10:46:10.282 [main] INFO  Utilities.Logger - Second Card ID: 661f7e756ad1f8ec1a209b26
+10:46:11.055 [main] INFO  Utilities.Logger - Expected: Random_Updated_CardActual: Random_Updated_Card
+10:46:11.055 [main] INFO  Utilities.Logger - Card updated!
+10:46:12.448 [main] INFO  Utilities.Logger - Expected: nullActual: null
+10:46:12.448 [main] INFO  Utilities.Logger - First Card deleted!
+10:46:12.448 [main] INFO  Utilities.Logger - Expected: nullActual: null
+10:46:12.448 [main] INFO  Utilities.Logger - Second Card deleted!
+10:46:13.972 [main] INFO  Utilities.Logger - Expected: nullActual: null
+10:46:13.972 [main] INFO  Utilities.Logger - Board deleted!
+10:46:13.987 [main] INFO  Utilities.Logger - Test Bitti10:46:13:987
+14:04:07.047 [main] INFO  Utilities.Logger - Test Başladı14:04:06:599
+14:04:09.418 [main] INFO  Utilities.Logger - Expected: My_New_PanosActual: My_New_Panos
+14:04:09.418 [main] INFO  Utilities.Logger - Board has been created!
+14:04:09.440 [main] INFO  Utilities.Logger - Board ID: 6620fe5cf3f21b621b9edc1e
+14:04:09.756 [main] INFO  Utilities.Logger - Expected: New_List1Actual: New_List1
+14:04:09.756 [main] INFO  Utilities.Logger - List has been created!
+14:04:09.756 [main] INFO  Utilities.Logger - List ID: 6620fe5d156779f60f16c2bc
+14:04:10.120 [main] INFO  Utilities.Logger - Expected: New_List2Actual: New_List2
+14:04:10.120 [main] INFO  Utilities.Logger - List has been created!
+14:04:10.120 [main] INFO  Utilities.Logger - List ID: 6620fe5e93d987912f4ba431
+14:04:10.591 [main] INFO  Utilities.Logger - Expected: New_Card1Actual: New_Card1
+14:04:10.591 [main] INFO  Utilities.Logger - Cart has been created!
+14:04:10.607 [main] INFO  Utilities.Logger - First Card ID: 6620fe5e1878731c8ccfa3c2
+14:04:11.046 [main] INFO  Utilities.Logger - Expected: New_Card2Actual: New_Card2
+14:04:11.046 [main] INFO  Utilities.Logger - Cart has been created!
+14:04:11.062 [main] INFO  Utilities.Logger - Second Card ID: 6620fe5e62ab2303269d665a
+14:04:11.511 [main] INFO  Utilities.Logger - Expected: Random_Updated_CardActual: Random_Updated_Card
+14:04:11.511 [main] INFO  Utilities.Logger - Card updated!
+14:04:13.358 [main] INFO  Utilities.Logger - Expected: nullActual: null
+14:04:13.358 [main] INFO  Utilities.Logger - First Card deleted!
+14:04:13.374 [main] INFO  Utilities.Logger - Expected: nullActual: null
+14:04:13.374 [main] INFO  Utilities.Logger - Second Card deleted!
+14:04:14.791 [main] INFO  Utilities.Logger - Expected: nullActual: null
+14:04:14.791 [main] INFO  Utilities.Logger - Board deleted!
+14:04:14.791 [main] INFO  Utilities.Logger - Test Bitti14:04:14:791
+14:09:39.594 [main] INFO  Utilities.Logger - Test Başladı14:09:39:124
+14:09:41.615 [main] INFO  Utilities.Logger - Expected: My_New_PanosActual: My_New_Panos
+14:09:41.615 [main] INFO  Utilities.Logger - Board has been created!
+14:09:41.630 [main] INFO  Utilities.Logger - Board ID: 6620ffa85e1ff765e1fbf580
+14:09:42.249 [main] INFO  Utilities.Logger - Expected: New_List1Actual: New_List1
+14:09:42.249 [main] INFO  Utilities.Logger - List has been created!
+14:09:42.249 [main] INFO  Utilities.Logger - List ID: 6620ffaa84f1abc0f0005187
+14:09:42.604 [main] INFO  Utilities.Logger - Expected: New_List2Actual: New_List2
+14:09:42.604 [main] INFO  Utilities.Logger - List has been created!
+14:09:42.604 [main] INFO  Utilities.Logger - List ID: 6620ffaa1c98ae7c9eef1610
+14:09:43.071 [main] INFO  Utilities.Logger - Expected: New_Card1Actual: New_Card1
+14:09:43.071 [main] INFO  Utilities.Logger - Cart has been created!
+14:09:43.085 [main] INFO  Utilities.Logger - First Card ID: 6620ffaadf76a2eeed4cf60c
+14:09:43.525 [main] INFO  Utilities.Logger - Expected: New_Card2Actual: New_Card2
+14:09:43.525 [main] INFO  Utilities.Logger - Cart has been created!
+14:09:43.540 [main] INFO  Utilities.Logger - Second Card ID: 6620ffab255d8db6a9d86f41
+14:09:43.911 [main] INFO  Utilities.Logger - Expected: Random_Updated_CardActual: Random_Updated_Card
+14:09:43.911 [main] INFO  Utilities.Logger - Card updated!
+14:09:45.474 [main] INFO  Utilities.Logger - Expected: nullActual: null
+14:09:45.474 [main] INFO  Utilities.Logger - First Card deleted!
+14:09:45.474 [main] INFO  Utilities.Logger - Expected: nullActual: null
+14:09:45.474 [main] INFO  Utilities.Logger - Second Card deleted!
+14:09:47.025 [main] INFO  Utilities.Logger - Expected: nullActual: null
+14:09:47.025 [main] INFO  Utilities.Logger - Board deleted!
+14:09:47.025 [main] INFO  Utilities.Logger - Test Bitti14:09:47:025
+20:26:55.923 [main] INFO  Utilities.Logger - Test Başladı20:26:54:888
+20:27:00.400 [main] INFO  Utilities.Logger - Expected: My_New_PanosActual: My_New_Panos
+20:27:00.400 [main] INFO  Utilities.Logger - Board has been created!
+20:27:00.466 [main] INFO  Utilities.Logger - Board ID: 66215817cf87b8b03e3cf747
+20:27:00.872 [main] INFO  Utilities.Logger - Expected: New_List1Actual: New_List1
+20:27:00.872 [main] INFO  Utilities.Logger - List has been created!
+20:27:00.896 [main] INFO  Utilities.Logger - List ID: 66215819644a67cd2bc1198f
+20:27:01.273 [main] INFO  Utilities.Logger - Expected: New_List2Actual: New_List2
+20:27:01.273 [main] INFO  Utilities.Logger - List has been created!
+20:27:01.293 [main] INFO  Utilities.Logger - List ID: 6621581adaed1adf2be8a469
+20:27:05.071 [main] INFO  Utilities.Logger - Expected: New_Card1Actual: New_Card1
+20:27:05.071 [main] INFO  Utilities.Logger - Cart has been created!
+20:27:05.104 [main] INFO  Utilities.Logger - First Card ID: 6621581d3f83b9013bf8ce57
+20:27:05.570 [main] INFO  Utilities.Logger - Expected: New_Card2Actual: New_Card2
+20:27:05.571 [main] INFO  Utilities.Logger - Cart has been created!
+20:27:05.582 [main] INFO  Utilities.Logger - Second Card ID: 6621581e7ab207b1d16249fe
+20:27:05.932 [main] INFO  Utilities.Logger - Expected: Random_Updated_CardActual: Random_Updated_Card
+20:27:05.932 [main] INFO  Utilities.Logger - Card updated!
+20:27:07.645 [main] INFO  Utilities.Logger - Expected: nullActual: null
+20:27:07.645 [main] INFO  Utilities.Logger - First Card deleted!
+20:27:07.660 [main] INFO  Utilities.Logger - Expected: nullActual: null
+20:27:07.660 [main] INFO  Utilities.Logger - Second Card deleted!
+20:27:09.089 [main] INFO  Utilities.Logger - Expected: nullActual: null
+20:27:09.090 [main] INFO  Utilities.Logger - Board deleted!
+20:27:09.090 [main] INFO  Utilities.Logger - Test Bitti20:27:09:090
